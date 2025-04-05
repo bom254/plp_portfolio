@@ -30,6 +30,11 @@ body {
     color: #00CED1;
 }
 
+.logo img{
+    height: 43px;
+    width: 80px;
+}
+
 .nav-links {
     list-style: none;
     display: flex;
